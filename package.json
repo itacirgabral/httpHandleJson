@@ -1,0 +1,8 @@
+{
+  "name": "httpHandleJson",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/itacirgabral/httpHandleJson",
+  "author": "itacirgabral <itacirgabral@users.noreply.github.com>",
+  "license": "MIT"
+}
